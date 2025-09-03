@@ -18,7 +18,7 @@ public class JenkinsSampleApplication {
 
 	@GetMapping("/sample")
 	public String sample(){
-		return "Spring Boot app deployed using jenkins";
+		return "Praveen Deployed Spring Boot app using jenkins";
 	}
 
 }
